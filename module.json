@@ -40,7 +40,7 @@
   ],
   "dependencies": [],
   "url": "",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/pints1ze/ten-candles/main/module.json",
+  "download": "https://github.com/pints1ze/ten-candles/releases/latest/download/ten-candles.zip",
   "manifestPlusVersion": "1.2.0"
 }
