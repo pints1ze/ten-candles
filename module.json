@@ -1,0 +1,46 @@
+{
+  "name": "ten-candles",
+  "title": "Ten Candles",
+  "description": "This contains 1 scene and 3 macros to help a GM run a game of Ten Candles. Information about the system can be found here: https://cavalrygames.com/ten-candles",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "9",
+  "author": "Scott Cook",
+  "authors": [
+    {
+      "name": "Scott Cook",
+      "discord": "pints1ze#8400"
+    }
+  ],
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Ten Candles",
+      "path": "/packs/maps.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "journals",
+      "label": "Ten Candles",
+      "path": "/packs/journals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "Ten Candles",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "dependencies": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
