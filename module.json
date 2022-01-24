@@ -2,7 +2,7 @@
   "name": "ten-candles",
   "title": "Ten Candles",
   "description": "This contains 1 scene and 3 macros to help a GM run a game of Ten Candles. Information about the system can be found here: https://cavalrygames.com/ten-candles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "9",
   "author": "pints1ze",
